@@ -1,0 +1,6 @@
+path: /root/autodl-tmp/landslide_auv_dataset/raw_dataset/
+train: /root/autodl-tmp/landslide_auv_dataset/raw_dataset/images/train
+val: /root/autodl-tmp/landslide_auv_dataset/raw_dataset/images/val
+test: /root/autodl-tmp/landslide_auv_dataset/raw_dataset/test
+
+names: ['landslide']

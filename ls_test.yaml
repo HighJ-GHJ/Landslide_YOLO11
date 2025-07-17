@@ -1,0 +1,7 @@
+path: /root/autodl-fs/landslide_split
+train: /root/autodl-fs/landslide_split/images/train
+val: /root/autodl-fs/landslide_split/images/test
+test: /root/autodl-fs/landslide_split/images/test
+
+
+names: ['landslide']
